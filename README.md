@@ -7,12 +7,16 @@
 </p>
 
 <b>Compétences : </b>
-* Python (Django, NumPy, Matplotlib)
-* HTML - CSS - PHP
-* SQL
+* __Algorithimique et programmation :__ Python (Django, NumPy, Matplotlib, Tkinter, sklearn, Programmation Orientée Objet), C 
+* __Programmation web :__ HTML - CSS - PHP
+* __Gestion de bases de données :__ conception de modèles UML, passage au MLD, requêtes SQL
 <br>
 
+
+<b> Mes statistiques : </b> <br>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antoine-gajan&theme=dracula&custom_title=Antoine%20Gajan's%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
+
+<b> Langages utilisés : </b> <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-gajan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
