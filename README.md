@@ -1,5 +1,5 @@
 <h1 align="center"> Antoine GAJAN </h1>
-<h2>Etudiant ingénieur en Génie Informatique à l'Université de Technologie de Compiègne (UTC)</h2>
+<h2 align="center">Etudiant ingénieur en Génie Informatique à l'Université de Technologie de Compiègne (UTC)</h2>
 <p align="center">
   <a href="https://github.com/antoine-gajan/antoine-gajan">GitHub </a> |
   <a href="https://www.linkedin.com/in/antoine-gajan/">LinkedIn </a> |
