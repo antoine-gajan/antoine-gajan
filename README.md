@@ -8,7 +8,7 @@
 
 <b><ins>Compétences : </ins></b>
 * __Algorithimique et programmation :__ Python (Django, NumPy, Matplotlib, Tkinter, sklearn, Programmation Orientée Objet), C 
-* __Programmation web :__ HTML - CSS - PHP
+* __Programmation web :__ HTML - CSS - PHP - JavaScript (React)
 * __Gestion de bases de données :__ conception de modèles UML, passage au MLD, requêtes SQL
 <br>
 
