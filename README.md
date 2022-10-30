@@ -6,6 +6,9 @@
   <a href="https://www.facebook.com/gajan.antoine/">Facebook </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=antoine-gajan&label=Profile%20views&color=229fee&style=flat" alt="antoine-gajan" /> </p>
+
+
 <b><ins>Compétences : </ins></b>
 * __Algorithimique et programmation :__ Python (Django, NumPy, Matplotlib, Tkinter, sklearn, Programmation Orientée Objet), C 
 * __Programmation web :__ HTML - CSS - PHP - JavaScript (React)
